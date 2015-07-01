@@ -1,2 +1,4 @@
-# aligent_rounding
-For debugging / investigating rounding issue sin magento.
+Aligent Rounding
+==============
+
+Aligent Rounding - For debugging / investigating rounding issues in magento.

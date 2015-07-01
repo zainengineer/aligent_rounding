@@ -1,0 +1,9 @@
+{
+    "name": "aligent/rounding",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Aligent Rounding - For debugging / investigating rounding issues in magento.",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
